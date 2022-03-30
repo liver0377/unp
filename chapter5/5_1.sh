@@ -1,4 +1,4 @@
-#!/usr/lib/sh
+#!/usr/bin/sh
 make
 
 ./tcpserv.o &
