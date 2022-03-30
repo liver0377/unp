@@ -32,7 +32,7 @@ void test2(char *str) {
 int main() {
     char *str_1 = "111.111.111.111"; // 点分十进制
     char *str_2 = "0x6f6f6f6f";      // 十六进制
-    char *str_3 = "0157";
+    char *str_3 = "0157157157157";
     printf("ipv4 test:\n");
     test1(str_1);
     test1(str_2);
